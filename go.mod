@@ -1,6 +1,6 @@
 module github.com/your-moon/grape-shared
 
-go 1.25.0
+go 1.24
 
 require (
 	github.com/ThreeDotsLabs/watermill v1.5.1
